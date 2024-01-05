@@ -1,0 +1,1 @@
+This Js and and HTML page get your geo location from browers and pin it on a beautifull map. it also circles the likly radious your location could be in meters and it will post your latitude and lonigtude.
